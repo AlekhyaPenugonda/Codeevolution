@@ -1,0 +1,20 @@
+GIVEN some strings in that we need to print the strings which doesn't contain vowels in it..
+
+input 1:
+
+        4
+        avoid
+        ball
+        ntng
+        nanin
+ 
+output 1:
+        ntng
+
+input 2:
+              3
+             avoid
+             ball
+             cat
+ouput 2:
+            no values
