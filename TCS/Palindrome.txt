@@ -1,0 +1,17 @@
+Create a function palindrome_list() that takes a list of strings as an argument. returns the list of strings which are only strings
+
+
+Input:
+
+
+3
+Malayalam
+Radar
+Bhushan
+
+
+Output:
+
+
+Malayalam
+Radar

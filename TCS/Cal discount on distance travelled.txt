@@ -1,0 +1,29 @@
+Given passenger ID name gender distance
+In last two lines they provide the passenger ID and discount percentage 
+We need to print the discount to be given for that particular passenger if that given Id is not in the list print no name or no value
+
+input:
+
+4
+101
+a
+f
+10000
+102
+b
+m
+12000
+103
+c
+f
+45000
+104
+d
+m
+65000
+101
+5
+ 
+output: 
+
+discount of 101 is: 500.0
